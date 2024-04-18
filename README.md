@@ -29,3 +29,10 @@ We have supplied a Github personal access token which will give you access to th
 When you have completed the test locally, please commit your script back to your personal repository, you shoudl then provide us with a link to this repository so we can validate your script. 
 
 Please make sure that you follow security best practices and DO NOT commit any secrets back to Github. 
+
+## Bonus Points
+If there is still time remaining please do the following:
+
+* Create a Dockerfile that will run your script
+* Build your Dockerfile into an image called tstest
+* Run a Docker container using your new image which outputs the repo names to the console.
