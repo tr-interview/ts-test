@@ -5,11 +5,8 @@ This test is designed to test your Typescript skills. The basic project should p
 ## The Rules
 You have 30 minutes for this test. Feel free to use Google and the official docs. Please don't use any AI code generating tools.
 
-## Pre-requisites
-You will need to have a working installation of NodeJS and Typescript. We would recommend using at least NodeJS 20+ this will be supplied to you as a Cloud9 IDE instance.
-
 ## Getting started
-Create a fork of this repository into your personal Github organisation and then checkout this fork locally.
+Clone a copy of this repo to your local environment
 
 Then install all the required dependancies of this project by running 
 ```npm install```
